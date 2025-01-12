@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/programmer_transparent.gif" alt="Programmer" width="200" align="left"/>
+  <img src="assets/programmer_transparent.gif" alt="Programmer" width="300" align="left"/>
 </p>
 
 ### Hi there 👋
