@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="assets/programmer.gif" alt="Programmer" width="200" align="left"/>
+  <img src="assets/programmer.gif" alt="Programmer" width="150" align="left"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p>
     This is my personal code playground. I am not a professional developer and my projects do not claim to be bug free (at least not some of them 😄). I upload projects here that I have worked on or am currently developing. You are welcome to contribute or use the code for your own purposes.
   </p>
